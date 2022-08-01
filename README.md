@@ -5,3 +5,4 @@ GeoLite2:The real data set is GeoLite2, a global free IP address database, which
 
 synthetic dataset:The spatial distribution range of synthetic data sets is 10k*10k, and the spatial positions of data objects and query points are generated according to Gaussian distribution and uniform distribution respectively.
 
+500000
